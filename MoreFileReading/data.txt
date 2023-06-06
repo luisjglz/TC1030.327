@@ -1,0 +1,29 @@
+Name,Login ID,SIS ID,Section,Role,Last Activity,Total Activity
+Mauricio Aguilar Pacheco,A01663667,3884503,3,Student,Jun 5 at 10:47pm,0.589456018518519
+Julián Catalán Alcalá,A01664671,4614562,5,Student,Jun 6 at 8:35am,0.194733796296296
+Jorge Rodrigo Colín Rubio,A01662960,3847426,1,Student,Jun 5 at 11:01pm,0.155578703703704
+Bruno Contreras Silva,A01657766,3371942,3,Student,Jun 5 at 4:50pm,0.0515277777777778
+Bruno Emmanuel Cuevas Hidalgo,A01658381,3388351,1,Student,Jun 5 at 7:38pm,0.204421296296296
+Jossue Patricio Espinoza Tobar,A00836647,3840114,4,Student,Jun 4 at 7:50pm,0.151180555555556
+Luis Gerardo Gómez Miranda,A01663879,3883064,5,Student,Jun 5 at 5:24pm,0.136134259259259
+Alonso Guerrero Fong,A01657743,3380742,4,Student,May 30 at 1:55pm,0.0525115740740741
+Nicole Kapellmann Lepine,A01664563,4307777,5,Student,Jun 6 at 9:00am,0.645451388888889
+Louis Hoque Kinnarinen,A01759199,3695797,4,Student,Jun 5 at 1:07pm,0.114571759259259
+Regina Luna Acosta,A01655821,2823369,3,Student,Jun 6 at 9:18am,0.144756944444444
+Patricio Maldonado Poiré,A01664661,4609760,4,Student,May 31 at 10:24am,0.0859606481481481
+Sebastian Elorduy Martínez Manzanero,A01655930,3162530,1,Student,Jun 1 at 12:55pm,1.40833333333333
+Jorge Gerardo Maya Hernández,A01664595,3926196,2,Student,Jun 5 at 1:21pm,0.313946759259259
+Luis Enrique Morales Pérez,A01656445,3192815,5,Student,Jun 6 at 12:37am,0.19181712962963
+Santiago Moreno Lacalle Quintero,A01663197,3868026,2,Student,Jun 5 at 10:34pm,0.222824074074074
+Miguel Ángel Ogando Bautista,A01663053,3857635,4,Student,Jun 5 at 2:13pm,0.381145833333333
+Ana Lorena Ortiz Loyola Solana,A01750283,3383507,1,Student,Jun 5 at 10:44am,0.195196759259259
+José Antonio Pacheco Chargoy,A01663815,3854354,1,Student,Jun 5 at 11:55am,0.149456018518519
+Alberto Jacobo Pimienta Ledesma,A01656709,3191691,4,Student,Jun 2 at 11:15am,0.175694444444444
+David Axel Rodríguez Botello,A01663282,3868246,1,Student,Jun 5 at 8:34am,0.0821180555555556
+Juan Carlos Romero Domínguez,A01658390,3419894,3,Student,Jun 6 at 9:18am,0.0616435185185185
+Alejandro Rosas Urdapilleta,A01664648,3884970,3,Student,Jun 5 at 9:28pm,0.195636574074074
+Luis Enrique Salazar Pérez,A00833460,3646990,3,Student,Jun 6 at 8:47am,0.406134259259259
+Sarah Lea Schürch,A01761626,5627700,4,Student,Jun 2 at 12:35pm,0.38900462962963
+Rose María Tejada Mendoza,A01658910,3456844,2,Student,Jun 5 at 10:12am,0.349050925925926
+Francisco Zuriel Tovar Mendoza,A01663783,3891991,2,Student,Jun 5 at 11:04pm,0.1584375
+Eduardo Trejo Bonilla,A01664711,3976505,1,Student,Jun 6 at 6:08am,0.109178240740741
