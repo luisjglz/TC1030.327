@@ -1,0 +1,6 @@
+ID,TYPE,TEAM,PLAYER,SERIES,YEAR,MATERIAL,CAPACITY
+1,WaterBottle,Chargers,-,-,-,aluminum,745
+2,Card,Kansas City Chiefs,Patrick Mahomes,NFL Five TCG,2021,-,-
+3,WaterBottle,Tampa Bay Buccaneers,-,-,-,aluminum,600
+4,WaterBottle,Detroit Lions,-,-,-,aluminum,500
+5,Card,Dallas Cowboys,Ezekiel Elliot,NFL Five TCG,2020,-,-
