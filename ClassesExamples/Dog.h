@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 class Dog{
     int breed;
     float age;
